@@ -10,7 +10,7 @@ instalando paquetes como babeljs, webpack, [entre otros]:https://github.com/face
 
 ![CLOCKS](https://dl.dropboxusercontent.com/u/181689/videoReloj.gif)
 
-https://jorger.github.io/NumberJS/
+https://jorger.github.io/Clocks_Reactjs/build/
 
 ### Stack
 
