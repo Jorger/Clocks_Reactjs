@@ -4,7 +4,7 @@ Actividad que tiene como fin afianzar los conocimientos del uso de [React], en �
 el cual recibe el valor de zona horaria, generando un Reloj análogico.
 
 Se ha hecho uso del módulo [create-react-app] el cual configura el entorno de desarrollo, 
-instalando paquetes como babeljs, webpack, [entre otros]:https://github.com/facebookincubator/create-react-app#philosophy
+instalando paquetes como babeljs, webpack, [entre otros]
 
 ### Demo
 
